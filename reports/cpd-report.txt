@@ -1,0 +1,8 @@
+Found a 4 line (30 tokens) duplication in the following files: 
+Starting at line 109 of C:\Users\Jack\workspace\jiedui\src\jiedui.java
+Starting at line 113 of C:\Users\Jack\workspace\jiedui\src\jiedui.java
+
+							I[index] = I1[i] + 1;
+							TR[index] = TRtemp[i];
+							TP[index] = TPtemp[i];
+						} else {
